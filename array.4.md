@@ -49,5 +49,8 @@ int leastInterval(char* tasks, int tasksSize, int n){<br>
         for(char i='A';i<'Z';i++) sum_t=sum_t+a[i];<br>
         return sum_t;<br>
     }<br>
+    我是参考下面链接的思路，觉得蛮巧妙：<br>
+    链接：https://leetcode-cn.com/problems/task-scheduler/solution/ren-wu-diao-du-qi-by-leetcode/<br>
+
     
          
